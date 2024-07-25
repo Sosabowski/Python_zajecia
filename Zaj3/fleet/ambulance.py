@@ -2,14 +2,17 @@
 class Ambulance:
     __slots__ = ['id', 'vehicle_type', 'status', 'location', 'medical_equipment']
     __instances_count = 0
+    __max_id = 1
 
-    def __init__(self, id, vehicle_type, status, location, medical_equipment):
-        self.id = id
+    def __init__(self, vehicle_type, status, location, medical_equipment):
+        self.id = Ambulance.__max_id
         self.vehicle_type = vehicle_type
         self.status = status  # e.g., "available", "on_mission", "servicing"
         self.location = location # as (northing, easting)
         self.medical_equipment = medical_equipment  # List of medical equipment names
+        self.incident = []
         Ambulance.__instances_count += 1
+        Ambulance.__max_id += 1
 
     def update_location(self, new_location):
         self.location = new_location
