@@ -1,0 +1,88 @@
+2024-07-30 22:38:28,871 - logger - INFO - Logger active
+2024-07-30 22:38:28,871 - logger - INFO - Logger active
+2024-07-30 22:53:01,283 - logger - INFO - Logger active
+2024-07-30 22:53:01,283 - logger - INFO - Logger active
+2024-07-30 22:55:07,012 - logger - INFO - Logger active
+2024-07-30 22:55:07,012 - logger - INFO - Logger active
+2024-07-30 22:57:12,591 - logger - INFO - Logger active
+2024-07-30 22:57:12,591 - logger - INFO - Logger active
+2024-07-30 23:01:06,552 - logger - INFO - Test session starts
+2024-07-30 23:01:06,552 - logger - INFO - Test session starts
+2024-07-30 23:01:06,582 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:01:06,582 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:01:06,582 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:01:06,677 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:01:06,677 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:01:06,677 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:01:06,677 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:01:06,682 - logger - INFO - Test session finishes
+2024-07-30 23:01:06,682 - logger - INFO - Test session finishes
+2024-07-30 23:01:06,682 - logger - INFO - Test session finishes
+2024-07-30 23:01:06,682 - logger - INFO - Test session finishes
+2024-07-30 23:01:06,683 - logger - INFO - Exit status: 1
+2024-07-30 23:01:06,683 - logger - INFO - Exit status: 1
+2024-07-30 23:01:06,683 - logger - INFO - Exit status: 1
+2024-07-30 23:01:06,683 - logger - INFO - Exit status: 1
+2024-07-30 23:02:54,593 - logger - INFO - Test session starts
+2024-07-30 23:02:54,593 - logger - INFO - Test session starts
+2024-07-30 23:02:54,669 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:02:54,669 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:02:54,669 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:02:54,765 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:02:54,765 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:02:54,765 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:02:54,765 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:02:54,767 - logger - INFO - Test session finishes
+2024-07-30 23:02:54,767 - logger - INFO - Test session finishes
+2024-07-30 23:02:54,767 - logger - INFO - Test session finishes
+2024-07-30 23:02:54,767 - logger - INFO - Test session finishes
+2024-07-30 23:02:54,768 - logger - INFO - Exit status: 1
+2024-07-30 23:02:54,768 - logger - INFO - Exit status: 1
+2024-07-30 23:02:54,768 - logger - INFO - Exit status: 1
+2024-07-30 23:02:54,768 - logger - INFO - Exit status: 1
+2024-07-30 23:04:25,423 - logger - INFO - Test session starts
+2024-07-30 23:04:25,423 - logger - INFO - Test session starts
+2024-07-30 23:04:25,448 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:04:25,448 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:04:25,448 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:04:25,541 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:04:25,541 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:04:25,541 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:04:25,541 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:04:25,543 - logger - INFO - Test session finishes
+2024-07-30 23:04:25,543 - logger - INFO - Test session finishes
+2024-07-30 23:04:25,543 - logger - INFO - Test session finishes
+2024-07-30 23:04:25,543 - logger - INFO - Test session finishes
+2024-07-30 23:04:25,543 - logger - INFO - Exit status: 1
+2024-07-30 23:04:25,543 - logger - INFO - Exit status: 1
+2024-07-30 23:04:25,543 - logger - INFO - Exit status: 1
+2024-07-30 23:04:25,543 - logger - INFO - Exit status: 1
+2024-07-30 23:04:33,002 - logger - INFO - Test session starts
+2024-07-30 23:04:33,002 - logger - INFO - Test session starts
+2024-07-30 23:04:33,030 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:04:33,030 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:04:33,030 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:04:33,123 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:04:33,123 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:04:33,123 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:04:33,123 - logger - ERROR - Test tests/test_ambulance.py::test_check_availability failed
+2024-07-30 23:04:33,125 - logger - INFO - Test session finishes
+2024-07-30 23:04:33,125 - logger - INFO - Test session finishes
+2024-07-30 23:04:33,125 - logger - INFO - Test session finishes
+2024-07-30 23:04:33,125 - logger - INFO - Test session finishes
+2024-07-30 23:04:33,126 - logger - INFO - Exit status: 1
+2024-07-30 23:04:33,126 - logger - INFO - Exit status: 1
+2024-07-30 23:04:33,126 - logger - INFO - Exit status: 1
+2024-07-30 23:04:33,126 - logger - INFO - Exit status: 1
+2024-07-30 23:05:03,511 - logger - INFO - Test session starts
+2024-07-30 23:05:03,549 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:05:03,549 - logger - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-30 23:05:03,551 - logger - INFO - Test tests/test_ambulance.py::test_check_availability passed
+2024-07-30 23:05:03,551 - logger - INFO - Test tests/test_ambulance.py::test_check_availability passed
+2024-07-30 23:05:03,551 - logger - INFO - Test tests/test_ambulance.py::test_check_availability passed
+2024-07-30 23:05:03,553 - logger - INFO - Test session finishes
+2024-07-30 23:05:03,553 - logger - INFO - Test session finishes
+2024-07-30 23:05:03,553 - logger - INFO - Test session finishes
+2024-07-30 23:05:03,553 - logger - INFO - Exit status: 0
+2024-07-30 23:05:03,553 - logger - INFO - Exit status: 0
+2024-07-30 23:05:03,553 - logger - INFO - Exit status: 0
