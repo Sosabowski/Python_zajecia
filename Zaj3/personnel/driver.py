@@ -2,11 +2,14 @@
 from .employee import Employee
 
 class Driver(Employee):
+    __max_id = 0
+
     def __init__(self, first_name, last_name, employee_id, salary, license_number, qualifications):
         # alternatywa: super().__init__(self, ...)
         Employee.__init__(self, first_name, last_name, employee_id, salary)
         self.license_number = license_number
         self.qualifications = qualifications
+        Driver.__max_id +=1
 
     def display_info(self):
         return f"Driver ID: {self.employee_id}, Name: {self.first_name} {self.last_name}, Salary: {self.salary}, License Number: {self.license_number}, Qualifications: {', '.join(self.qualifications)}"

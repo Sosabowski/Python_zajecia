@@ -1,8 +1,10 @@
 from .incident import Incident
 
 class IncidentQueue:
+    __max_id = 0
     def __init__(self):
         self.__queue = []
+        IncidentQueue.__max_id += 1
 
     def __getitem__(self, position):
         return self.__queue[position]
